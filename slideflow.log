@@ -1,0 +1,1706 @@
+2025-01-03 14:11:39 [INFO] - Setting up project at ./my_project
+2025-01-03 14:13:02 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_adeno_squam.json
+2025-01-03 14:13:03 [INFO] - Setting up project at data
+2025-01-03 14:13:03 [INFO] - Creating project at data...
+2025-01-03 14:13:03 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_labels.csv
+2025-01-03 14:13:03 [INFO] - Saved dataset source TCGA_LUNG to data/datasets.json
+2025-01-03 14:13:05 [DEBUG] - Verifying slide annotations...
+2025-01-03 14:13:05 [DEBUG] - Verifying tfrecords...
+2025-01-03 14:18:09 [INFO] - Setting up project at data
+2025-01-03 14:18:09 [INFO] - Creating project at data...
+2025-01-03 14:18:16 [INFO] - Setting up project at data
+2025-01-03 14:18:16 [INFO] - Creating project at data...
+2025-01-03 14:19:08 [INFO] - Setting up project at data
+2025-01-03 14:19:08 [INFO] - Creating project at data...
+2025-01-03 14:27:07 [INFO] - Setting up project at /project/path
+2025-01-03 14:27:07 [INFO] - Creating project at /project/path...
+2025-01-03 14:27:29 [INFO] - Setting up project at /my_project/
+2025-01-03 14:27:29 [INFO] - Creating project at /my_project/...
+2025-01-03 14:28:01 [INFO] - Setting up project at /project/path
+2025-01-03 14:28:01 [INFO] - Creating project at /project/path...
+2025-01-03 14:43:06 [INFO] - Setting up project at /project/path
+2025-01-03 14:43:06 [INFO] - Creating project at /project/path...
+2025-01-03 14:46:00 [INFO] - Setting up project at /my_project
+2025-01-03 14:46:00 [INFO] - Creating project at /my_project...
+2025-01-03 14:46:12 [INFO] - Creating project at ./my_project...
+2025-01-03 15:05:17 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_adeno_squam.json
+2025-01-03 15:05:18 [INFO] - Setting up project at /project/destination
+2025-01-03 15:05:18 [INFO] - Creating project at /project/destination...
+2025-01-03 15:05:52 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_adeno_squam.json
+2025-01-03 15:05:52 [INFO] - Setting up project at /project
+2025-01-03 15:05:52 [INFO] - Creating project at /project...
+2025-01-03 15:07:03 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_adeno_squam.json
+2025-01-03 15:07:03 [INFO] - Setting up project at project
+2025-01-03 15:07:03 [INFO] - Creating project at project...
+2025-01-03 15:07:03 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_labels.csv
+2025-01-03 15:07:03 [INFO] - Saved dataset source TCGA_LUNG to project/datasets.json
+2025-01-03 15:07:04 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:07:04 [DEBUG] - Verifying tfrecords...
+2025-01-03 15:07:28 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_adeno_squam.json
+2025-01-03 15:07:28 [INFO] - Setting up project at data
+2025-01-03 15:07:28 [INFO] - Creating project at data...
+2025-01-03 15:07:28 [INFO] - Downloading https://raw.githubusercontent.com/slideflow/slideflow/master/datasets/lung_adeno_squam/lung_labels.csv
+2025-01-03 15:07:28 [INFO] - Saved dataset source TCGA_LUNG to data/datasets.json
+2025-01-03 15:07:28 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:07:28 [DEBUG] - Verifying tfrecords...
+2025-01-03 15:35:17 [INFO] - Setting up project at data
+2025-01-03 15:35:17 [INFO] - Creating project at data...
+2025-01-03 15:38:35 [INFO] - Setting up project at data
+2025-01-03 15:38:35 [INFO] - Creating project at data...
+2025-01-03 15:38:42 [INFO] - Setting up project at data
+2025-01-03 15:38:42 [INFO] - Creating project at data...
+2025-01-03 15:39:06 [INFO] - Setting up project at data
+2025-01-03 15:39:06 [INFO] - Creating project at data...
+2025-01-03 15:39:06 [INFO] - Saved dataset source MyProject to data/datasets.json
+2025-01-03 15:39:06 [INFO] - Wrote annotations file to [green]data/annotations.csv
+2025-01-03 15:39:20 [INFO] - Column 'slide' missing in annotations.
+2025-01-03 15:39:20 [INFO] - Attempting to associate patients with slides...
+2025-01-03 15:39:20 [DEBUG] - Number of patients in annotations: 2
+2025-01-03 15:39:20 [DEBUG] - Slides found: 2
+2025-01-03 15:39:20 [INFO] - Done; associated slides with 2 annotations.
+2025-01-03 15:39:20 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:39:20 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-03 15:39:20 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 15:39:20 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-03 15:39:20 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-03 15:39:20 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 15:39:20 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-03 15:39:20 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 15:39:20 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 15:39:20 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 15:39:20 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 15:39:20 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 15:39:20 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 15:39:20 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 15:39:21 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:39:21 [ERROR] - Error processing slide ./slides/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:39:21 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:39:21 [ERROR] - Error processing slide ./slides/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:39:21 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 15:39:21 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 15:39:21 [DEBUG] - Rendering tile images with pool.
+2025-01-03 15:39:21 [DEBUG] - Report render complete.
+2025-01-03 15:39:21 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 15:39:22 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:39:22 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 15:39:22 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 15:39:22 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 15:39:22 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 15:39:22 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 15:39:22 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 15:39:23 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:39:23 [ERROR] - Error processing slide ./slides/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:39:23 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:39:23 [ERROR] - Error processing slide ./slides/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:39:23 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 15:39:23 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 15:39:23 [DEBUG] - Rendering tile images with pool.
+2025-01-03 15:39:23 [DEBUG] - Report render complete.
+2025-01-03 15:39:23 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 15:41:25 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:41:25 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 15:41:25 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 15:41:25 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 15:41:25 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 15:41:25 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 15:41:25 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 15:41:25 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:41:25 [ERROR] - Error processing slide ./slides/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:41:26 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:41:26 [ERROR] - Error processing slide ./slides/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:41:26 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 15:41:26 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 15:41:26 [DEBUG] - Rendering tile images with pool.
+2025-01-03 15:41:26 [DEBUG] - Report render complete.
+2025-01-03 15:41:26 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 15:41:27 [DEBUG] - Verifying slide annotations...
+2025-01-03 15:41:27 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 15:41:27 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 15:41:27 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 15:41:27 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 15:41:27 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 15:41:27 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 15:41:27 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:41:27 [ERROR] - Error processing slide ./slides/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:41:27 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-03 15:41:27 [ERROR] - Error processing slide ./slides/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-03 15:41:27 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 15:41:27 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 15:41:27 [DEBUG] - Rendering tile images with pool.
+2025-01-03 15:41:27 [DEBUG] - Report render complete.
+2025-01-03 15:41:27 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 16:05:14 [DEBUG] - Verifying slide annotations...
+2025-01-03 16:05:14 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 16:05:14 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 16:05:14 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 16:05:14 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 16:05:14 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 16:05:15 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 16:05:16 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:05:17 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:05:17 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 16:05:17 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 16:05:17 [DEBUG] - Rendering tile images with pool.
+2025-01-03 16:05:17 [DEBUG] - Report render complete.
+2025-01-03 16:05:17 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 16:05:17 [DEBUG] - Verifying slide annotations...
+2025-01-03 16:05:17 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 16:05:17 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 16:05:17 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 16:05:17 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 16:05:17 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 16:05:18 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 16:05:18 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:05:18 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:05:18 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 16:05:18 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 16:05:18 [DEBUG] - Rendering tile images with pool.
+2025-01-03 16:05:18 [DEBUG] - Report render complete.
+2025-01-03 16:05:18 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 16:07:41 [INFO] - Setting up project at data
+2025-01-03 16:07:41 [INFO] - Creating project at data...
+2025-01-03 16:07:41 [INFO] - Saved dataset source MyProject to data/datasets.json
+2025-01-03 16:07:41 [INFO] - Wrote annotations file to [green]data/annotations.csv
+2025-01-03 16:07:43 [INFO] - Column 'slide' missing in annotations.
+2025-01-03 16:07:43 [INFO] - Attempting to associate patients with slides...
+2025-01-03 16:07:43 [DEBUG] - Number of patients in annotations: 2
+2025-01-03 16:07:43 [DEBUG] - Slides found: 2
+2025-01-03 16:07:43 [INFO] - Done; associated slides with 2 annotations.
+2025-01-03 16:07:43 [DEBUG] - Verifying slide annotations...
+2025-01-03 16:07:43 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-03 16:07:43 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 16:07:43 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-03 16:07:43 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-03 16:07:43 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 16:07:43 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-03 16:07:43 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 16:07:43 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 16:07:43 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 16:07:43 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 16:07:43 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-03 16:07:43 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 16:07:43 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 16:07:43 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:07:43 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:07:43 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 16:07:43 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 16:07:43 [DEBUG] - Rendering tile images with pool.
+2025-01-03 16:07:43 [DEBUG] - Report render complete.
+2025-01-03 16:07:43 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-03 16:07:44 [DEBUG] - Verifying slide annotations...
+2025-01-03 16:07:44 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-03 16:07:44 [INFO] - Filtering tiles by grayspace fraction
+2025-01-03 16:07:44 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-03 16:07:44 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-03 16:07:44 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-03 16:07:44 [INFO] - Using 4 processes (pool=spawn)
+2025-01-03 16:07:44 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:07:44 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-03 16:07:44 [INFO] - Generating PDF (this may take some time)...
+2025-01-03 16:07:44 [DEBUG] - Rendering thumbnails with pool.
+2025-01-03 16:07:44 [DEBUG] - Rendering tile images with pool.
+2025-01-03 16:07:44 [DEBUG] - Report render complete.
+2025-01-03 16:07:44 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-08 15:45:14 [DEBUG] - Verifying slide annotations...
+2025-01-08 15:45:14 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-08 15:45:14 [INFO] - Filtering tiles by grayspace fraction
+2025-01-08 15:45:14 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-08 15:45:14 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-08 15:45:14 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-08 15:45:14 [INFO] - Using 4 processes (pool=spawn)
+2025-01-08 15:45:16 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-08 15:45:16 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-08 15:45:16 [INFO] - Generating PDF (this may take some time)...
+2025-01-08 15:45:16 [DEBUG] - Rendering thumbnails with pool.
+2025-01-08 15:45:16 [DEBUG] - Rendering tile images with pool.
+2025-01-08 15:45:16 [DEBUG] - Report render complete.
+2025-01-08 15:45:16 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-08 15:45:17 [DEBUG] - Verifying slide annotations...
+2025-01-08 15:45:17 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-08 15:45:17 [INFO] - Filtering tiles by grayspace fraction
+2025-01-08 15:45:17 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-08 15:45:17 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-08 15:45:17 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-08 15:45:17 [INFO] - Using 4 processes (pool=spawn)
+2025-01-08 15:45:17 [ERROR] - Error loading slide ./slides/original_6-ki67.tiff: Error loading slide original_6-ki67: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-08 15:45:17 [ERROR] - Error loading slide ./slides/original_37-HE.tiff: Error loading slide original_37-HE: unable to call VipsForeignLoadTiffFile
+  tiff2vips: samples out of range
+. Skipping
+2025-01-08 15:45:17 [INFO] - Generating PDF (this may take some time)...
+2025-01-08 15:45:17 [DEBUG] - Rendering thumbnails with pool.
+2025-01-08 15:45:17 [DEBUG] - Rendering tile images with pool.
+2025-01-08 15:45:17 [DEBUG] - Report render complete.
+2025-01-08 15:45:17 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 10:22:39 [INFO] - Setting up project at data
+2025-01-09 10:22:39 [INFO] - Creating project at data...
+2025-01-09 10:22:39 [INFO] - Saved dataset source MyProject to data/datasets.json
+2025-01-09 10:22:39 [INFO] - Wrote annotations file to [green]data/annotations.csv
+2025-01-09 10:22:39 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 10:22:39 [INFO] - Attempting to associate patients with slides...
+2025-01-09 10:22:39 [DEBUG] - Number of patients in annotations: 0
+2025-01-09 10:22:39 [DEBUG] - Slides found: 0
+2025-01-09 10:22:39 [DEBUG] - Annotations up-to-date, no changes made.
+2025-01-09 10:22:39 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:22:39 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-09 10:22:39 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-09 10:22:39 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:22:39 [DEBUG] - TFRecords path not found: data/tfrecords/299px_302um
+2025-01-09 10:22:39 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-09 10:22:39 [DEBUG] - Failed to update manifest data/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:22:39 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:22:39 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:22:39 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:22:39 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:22:39 [DEBUG] - No manifest at data/tfrecords/299px_302um; creating now
+2025-01-09 10:22:39 [INFO] - Extracting tiles from 0 slides (tile_px=299, tile_um=302)
+2025-01-09 10:22:39 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:22:39 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:22:39 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:22:39 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:22:39 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:22:39 [INFO] - Extracting tiles from 0 slides (tile_px=299, tile_um=302)
+2025-01-09 10:52:44 [INFO] - Setting up project at data_1
+2025-01-09 10:52:44 [INFO] - Creating project at data_1...
+2025-01-09 10:52:44 [INFO] - Saved dataset source MyProject to data_1/datasets.json
+2025-01-09 10:52:44 [INFO] - Wrote annotations file to [green]data_1/annotations.csv
+2025-01-09 10:52:44 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 10:52:44 [INFO] - Attempting to associate patients with slides...
+2025-01-09 10:52:44 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 10:52:44 [DEBUG] - Slides found: 2
+2025-01-09 10:52:44 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 10:52:44 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:52:44 [DEBUG] - TFRecords path not found: data_1/tfrecords/299px_302um
+2025-01-09 10:52:44 [DEBUG] - No manifest at data_1/tfrecords/299px_302um; creating now
+2025-01-09 10:52:44 [DEBUG] - Failed to update manifest data_1/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:52:44 [DEBUG] - TFRecords path not found: data_1/tfrecords/299px_302um
+2025-01-09 10:52:44 [DEBUG] - No manifest at data_1/tfrecords/299px_302um; creating now
+2025-01-09 10:52:44 [DEBUG] - Failed to update manifest data_1/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:52:44 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:52:44 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:52:44 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:52:44 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:52:44 [DEBUG] - No manifest at data_1/tfrecords/299px_302um; creating now
+2025-01-09 10:52:44 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 10:52:44 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 10:52:45 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-09 10:52:45 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-09 10:52:45 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-09 10:52:45 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-09 10:52:45 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 10:52:46 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 10:52:46 [DEBUG] - Rendering tile images with pool.
+2025-01-09 10:52:46 [DEBUG] - Report render complete.
+2025-01-09 10:52:46 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 10:52:46 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:52:46 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:52:46 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:52:46 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:52:46 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:52:46 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 10:52:47 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 10:52:47 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-09 10:52:47 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-09 10:52:48 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-09 10:52:48 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-09 10:52:48 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 10:52:48 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 10:52:48 [DEBUG] - Rendering tile images with pool.
+2025-01-09 10:52:48 [DEBUG] - Report render complete.
+2025-01-09 10:52:48 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 10:56:11 [INFO] - Setting up project at data_2
+2025-01-09 10:56:11 [INFO] - Creating project at data_2...
+2025-01-09 10:56:11 [INFO] - Saved dataset source MyProject to data_2/datasets.json
+2025-01-09 10:56:11 [INFO] - Wrote annotations file to [green]data_2/annotations.csv
+2025-01-09 10:56:11 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 10:56:11 [INFO] - Attempting to associate patients with slides...
+2025-01-09 10:56:11 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 10:56:11 [DEBUG] - Slides found: 2
+2025-01-09 10:56:11 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 10:56:11 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:56:11 [DEBUG] - TFRecords path not found: data_2/tfrecords/299px_302um
+2025-01-09 10:56:11 [DEBUG] - No manifest at data_2/tfrecords/299px_302um; creating now
+2025-01-09 10:56:11 [DEBUG] - Failed to update manifest data_2/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:56:11 [DEBUG] - TFRecords path not found: data_2/tfrecords/299px_302um
+2025-01-09 10:56:11 [DEBUG] - No manifest at data_2/tfrecords/299px_302um; creating now
+2025-01-09 10:56:11 [DEBUG] - Failed to update manifest data_2/tfrecords/299px_302um; no TFRecords
+2025-01-09 10:56:11 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:56:11 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:56:12 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:56:12 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:56:12 [DEBUG] - No manifest at data_2/tfrecords/299px_302um; creating now
+2025-01-09 10:56:12 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 10:56:12 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 10:56:13 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 10:56:13 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 10:56:13 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 10:56:13 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 10:56:13 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 10:56:13 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 10:56:13 [DEBUG] - Rendering tile images with pool.
+2025-01-09 10:56:13 [DEBUG] - Report render complete.
+2025-01-09 10:56:13 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 10:56:13 [DEBUG] - Verifying slide annotations...
+2025-01-09 10:56:13 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 10:56:13 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 10:56:13 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 10:56:13 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 10:56:13 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 10:56:14 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 10:56:14 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 10:56:14 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 10:56:14 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 10:56:14 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 10:56:14 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 10:56:14 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 10:56:14 [DEBUG] - Rendering tile images with pool.
+2025-01-09 10:56:14 [DEBUG] - Report render complete.
+2025-01-09 10:56:14 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:00:07 [INFO] - Setting up project at data_3
+2025-01-09 11:00:07 [INFO] - Creating project at data_3...
+2025-01-09 11:00:07 [INFO] - Saved dataset source MyProject to data_3/datasets.json
+2025-01-09 11:00:07 [INFO] - Wrote annotations file to [green]data_3/annotations.csv
+2025-01-09 11:00:07 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 11:00:07 [INFO] - Attempting to associate patients with slides...
+2025-01-09 11:00:07 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 11:00:07 [DEBUG] - Slides found: 2
+2025-01-09 11:00:07 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 11:00:07 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:00:07 [DEBUG] - TFRecords path not found: data_3/tfrecords/299px_302um
+2025-01-09 11:00:07 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:00:07 [DEBUG] - Failed to update manifest data_3/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:00:07 [DEBUG] - TFRecords path not found: data_3/tfrecords/299px_302um
+2025-01-09 11:00:07 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:00:07 [DEBUG] - Failed to update manifest data_3/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:00:07 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:00:07 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:00:07 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:00:07 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:00:07 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:00:07 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:00:07 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:00:07 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:00:07 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:00:07 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:00:07 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:00:07 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:00:07 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:00:07 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:00:07 [DEBUG] - Report render complete.
+2025-01-09 11:00:07 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:00:08 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:00:08 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:00:08 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:00:08 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:00:08 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:00:08 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:00:08 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:00:08 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:00:08 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:00:08 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:00:08 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:00:08 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:00:08 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:00:08 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:00:08 [DEBUG] - Report render complete.
+2025-01-09 11:00:08 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:01:21 [INFO] - Setting up project at data4
+2025-01-09 11:01:21 [INFO] - Creating project at data4...
+2025-01-09 11:01:21 [INFO] - Saved dataset source MyProject to data4/datasets.json
+2025-01-09 11:01:21 [INFO] - Wrote annotations file to [green]data4/annotations.csv
+2025-01-09 11:01:21 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 11:01:21 [INFO] - Attempting to associate patients with slides...
+2025-01-09 11:01:21 [DEBUG] - Number of patients in annotations: 3
+2025-01-09 11:01:21 [DEBUG] - Slides found: 3
+2025-01-09 11:01:21 [INFO] - Done; associated slides with 3 annotations.
+2025-01-09 11:01:21 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:01:21 [DEBUG] - TFRecords path not found: data4/tfrecords/299px_302um
+2025-01-09 11:01:21 [DEBUG] - No manifest at data4/tfrecords/299px_302um; creating now
+2025-01-09 11:01:21 [DEBUG] - Failed to update manifest data4/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:01:21 [DEBUG] - TFRecords path not found: data4/tfrecords/299px_302um
+2025-01-09 11:01:21 [DEBUG] - No manifest at data4/tfrecords/299px_302um; creating now
+2025-01-09 11:01:21 [DEBUG] - Failed to update manifest data4/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:01:21 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:01:21 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:01:21 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:01:21 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:01:21 [DEBUG] - No manifest at data4/tfrecords/299px_302um; creating now
+2025-01-09 11:01:21 [INFO] - Extracting tiles from 3 slides (tile_px=299, tile_um=302)
+2025-01-09 11:01:21 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:01:21 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:01:21 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:01:21 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:01:21 [ERROR] - Error loading slide ./tiff_images/original_6-ki67_fixed.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67_fixed.tiff. Skipping
+2025-01-09 11:01:22 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:01:22 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:01:22 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:01:22 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:01:22 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:01:22 [DEBUG] - Report render complete.
+2025-01-09 11:01:22 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:20:05 [INFO] - Setting up project at data
+2025-01-09 11:20:05 [INFO] - Creating project at data...
+2025-01-09 11:20:54 [INFO] - Setting up project at data_1
+2025-01-09 11:20:54 [INFO] - Creating project at data_1...
+2025-01-09 11:21:42 [INFO] - Setting up project at data_2
+2025-01-09 11:21:42 [INFO] - Creating project at data_2...
+2025-01-09 11:21:42 [INFO] - Saved dataset source MyProject to data_2/datasets.json
+2025-01-09 11:21:42 [INFO] - Wrote annotations file to [green]data_2/annotations.csv
+2025-01-09 11:23:03 [INFO] - Setting up project at data_3
+2025-01-09 11:23:03 [INFO] - Creating project at data_3...
+2025-01-09 11:23:03 [INFO] - Saved dataset source MyProject to data_3/datasets.json
+2025-01-09 11:23:03 [INFO] - Wrote annotations file to [green]data_3/annotations.csv
+2025-01-09 11:23:03 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 11:23:03 [INFO] - Attempting to associate patients with slides...
+2025-01-09 11:23:03 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 11:23:03 [DEBUG] - Slides found: 2
+2025-01-09 11:23:03 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 11:23:03 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:23:03 [DEBUG] - TFRecords path not found: data_3/tfrecords/299px_302um
+2025-01-09 11:23:03 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:23:03 [DEBUG] - Failed to update manifest data_3/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:23:03 [DEBUG] - TFRecords path not found: data_3/tfrecords/299px_302um
+2025-01-09 11:23:03 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:23:03 [DEBUG] - Failed to update manifest data_3/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:23:03 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:23:03 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:23:03 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:23:03 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:23:03 [DEBUG] - No manifest at data_3/tfrecords/299px_302um; creating now
+2025-01-09 11:23:03 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:23:03 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:23:04 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:04 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:23:04 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:04 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:23:04 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:23:04 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:23:04 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:23:04 [DEBUG] - Report render complete.
+2025-01-09 11:23:04 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:23:04 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:23:04 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:23:04 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:23:04 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:23:04 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:23:04 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:23:05 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:23:05 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:05 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:23:05 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:05 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:23:05 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:23:05 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:23:05 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:23:05 [DEBUG] - Report render complete.
+2025-01-09 11:23:05 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:23:57 [INFO] - Setting up project at ./project/data
+2025-01-09 11:23:57 [INFO] - Creating project at ./project/data...
+2025-01-09 11:23:57 [INFO] - Saved dataset source MyProject to ./project/data/datasets.json
+2025-01-09 11:23:57 [INFO] - Wrote annotations file to [green]./project/data/annotations.csv
+2025-01-09 11:23:57 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 11:23:57 [INFO] - Attempting to associate patients with slides...
+2025-01-09 11:23:57 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 11:23:57 [DEBUG] - Slides found: 2
+2025-01-09 11:23:57 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 11:23:57 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:23:57 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-09 11:23:57 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:23:57 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:23:57 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-09 11:23:57 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:23:57 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:23:57 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:23:57 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:23:57 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:23:57 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:23:57 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:23:57 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:23:57 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:23:57 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:57 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:23:57 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:57 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:23:57 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:23:57 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:23:57 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:23:57 [DEBUG] - Report render complete.
+2025-01-09 11:23:57 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:23:58 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:23:58 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:23:58 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:23:58 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:23:58 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:23:58 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:23:58 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:23:58 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:58 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:23:58 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:23:58 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:23:58 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:23:58 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:23:58 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:23:58 [DEBUG] - Report render complete.
+2025-01-09 11:23:58 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:24:29 [INFO] - Setting up project at ./project/data
+2025-01-09 11:24:29 [INFO] - Creating project at ./project/data...
+2025-01-09 11:24:29 [INFO] - Saved dataset source MyProject to ./project/data/datasets.json
+2025-01-09 11:24:29 [INFO] - Wrote annotations file to [green]./project/data/annotations.csv
+2025-01-09 11:24:29 [INFO] - Column 'slide' missing in annotations.
+2025-01-09 11:24:29 [INFO] - Attempting to associate patients with slides...
+2025-01-09 11:24:29 [DEBUG] - Number of patients in annotations: 2
+2025-01-09 11:24:29 [DEBUG] - Slides found: 2
+2025-01-09 11:24:29 [INFO] - Done; associated slides with 2 annotations.
+2025-01-09 11:24:29 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:24:29 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-09 11:24:29 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:24:29 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:24:29 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-09 11:24:29 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:24:29 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-09 11:24:29 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:24:29 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:24:29 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:24:29 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:24:29 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-09 11:24:29 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:24:29 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:24:29 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:24:29 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:24:29 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:24:29 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:24:30 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:24:30 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:24:30 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:24:30 [DEBUG] - Report render complete.
+2025-01-09 11:24:30 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-09 11:24:30 [DEBUG] - Verifying slide annotations...
+2025-01-09 11:24:30 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-09 11:24:30 [INFO] - Filtering tiles by grayspace fraction
+2025-01-09 11:24:30 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-09 11:24:30 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-09 11:24:30 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-09 11:24:31 [INFO] - Using 4 processes (pool=spawn)
+2025-01-09 11:24:31 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:24:31 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-09 11:24:31 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-09 11:24:31 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-09 11:24:31 [INFO] - Generating PDF (this may take some time)...
+2025-01-09 11:24:31 [DEBUG] - Rendering thumbnails with pool.
+2025-01-09 11:24:31 [DEBUG] - Rendering tile images with pool.
+2025-01-09 11:24:31 [DEBUG] - Report render complete.
+2025-01-09 11:24:31 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:34:29 [INFO] - Setting up project at ./project/data_1
+2025-01-13 15:34:29 [INFO] - Creating project at ./project/data_1...
+2025-01-13 15:34:30 [INFO] - Saved dataset source MyProject to ./project/data_1/datasets.json
+2025-01-13 15:34:30 [INFO] - Wrote annotations file to [green]./project/data_1/annotations.csv
+2025-01-13 15:35:55 [INFO] - Setting up project at ./project/data_2
+2025-01-13 15:35:55 [INFO] - Creating project at ./project/data_2...
+2025-01-13 15:35:55 [INFO] - Saved dataset source MyProject to ./project/data_2/datasets.json
+2025-01-13 15:35:55 [INFO] - Wrote annotations file to [green]./project/data_2/annotations.csv
+2025-01-13 15:36:18 [INFO] - Setting up project at ./project/data_3
+2025-01-13 15:36:18 [INFO] - Creating project at ./project/data_3...
+2025-01-13 15:36:18 [INFO] - Saved dataset source MyProject to ./project/data_3/datasets.json
+2025-01-13 15:36:18 [INFO] - Wrote annotations file to [green]./project/data_3/annotations.csv
+2025-01-13 15:36:38 [INFO] - Setting up project at ./project/data_4
+2025-01-13 15:36:38 [INFO] - Creating project at ./project/data_4...
+2025-01-13 15:36:38 [INFO] - Saved dataset source MyProject to ./project/data_4/datasets.json
+2025-01-13 15:36:38 [INFO] - Wrote annotations file to [green]./project/data_4/annotations.csv
+2025-01-13 15:40:04 [INFO] - Setting up project at ./project/data_5
+2025-01-13 15:40:04 [INFO] - Creating project at ./project/data_5...
+2025-01-13 15:40:04 [INFO] - Saved dataset source MyProject to ./project/data_5/datasets.json
+2025-01-13 15:40:04 [INFO] - Wrote annotations file to [green]./project/data_5/annotations.csv
+2025-01-13 15:40:04 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 15:40:04 [INFO] - Attempting to associate patients with slides...
+2025-01-13 15:40:04 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 15:40:04 [DEBUG] - Slides found: 2
+2025-01-13 15:40:04 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 15:40:04 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:40:04 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-13 15:40:04 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-13 15:40:04 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:40:04 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-13 15:40:04 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-13 15:40:04 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:40:04 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:40:04 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:40:04 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:40:04 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:40:04 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-13 15:40:04 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:40:05 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:40:06 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-13 15:40:06 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-13 15:40:06 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-13 15:40:06 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-13 15:40:06 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:40:06 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:40:06 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:40:06 [DEBUG] - Report render complete.
+2025-01-13 15:40:06 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:40:07 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:40:07 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:40:07 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:40:07 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:40:07 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:40:07 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:40:07 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:40:08 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-13 15:40:08 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-13 15:40:08 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-13 15:40:08 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-13 15:40:08 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:40:08 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:40:08 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:40:08 [DEBUG] - Report render complete.
+2025-01-13 15:40:08 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:43:36 [INFO] - Setting up project at ./project/data_6
+2025-01-13 15:43:36 [INFO] - Creating project at ./project/data_6...
+2025-01-13 15:43:36 [INFO] - Saved dataset source MyProject to ./project/data_6/datasets.json
+2025-01-13 15:43:36 [INFO] - Wrote annotations file to [green]./project/data_6/annotations.csv
+2025-01-13 15:43:36 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 15:43:36 [INFO] - Attempting to associate patients with slides...
+2025-01-13 15:43:36 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 15:43:36 [DEBUG] - Slides found: 2
+2025-01-13 15:43:36 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 15:43:36 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:43:36 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-13 15:43:36 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 15:43:36 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:43:36 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-13 15:43:36 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 15:43:36 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:43:36 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:43:36 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:43:36 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:43:36 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:43:36 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 15:43:36 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:43:36 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:43:38 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:43:38 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 15:43:38 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:43:38 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 15:43:38 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:43:38 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:43:38 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:43:38 [DEBUG] - Report render complete.
+2025-01-13 15:43:38 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:43:38 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:43:38 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:43:38 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:43:38 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:43:38 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:43:38 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:43:39 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:43:39 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:43:39 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 15:43:39 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:43:39 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 15:43:39 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:43:39 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:43:39 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:43:39 [DEBUG] - Report render complete.
+2025-01-13 15:43:39 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:45:03 [INFO] - Setting up project at ./project/data_7
+2025-01-13 15:45:03 [INFO] - Creating project at ./project/data_7...
+2025-01-13 15:45:03 [INFO] - Saved dataset source MyProject to ./project/data_7/datasets.json
+2025-01-13 15:45:03 [INFO] - Wrote annotations file to [green]./project/data_7/annotations.csv
+2025-01-13 15:45:03 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 15:45:03 [INFO] - Attempting to associate patients with slides...
+2025-01-13 15:45:03 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 15:45:03 [DEBUG] - Slides found: 2
+2025-01-13 15:45:03 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 15:45:03 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:45:03 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-13 15:45:03 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-13 15:45:03 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:45:03 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-13 15:45:03 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-13 15:45:03 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-13 15:45:03 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:45:03 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:45:03 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:45:03 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:45:03 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-13 15:45:03 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:45:04 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:45:04 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:45:04 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 15:45:04 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:45:04 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 15:45:04 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:45:04 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:45:04 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:45:04 [DEBUG] - Report render complete.
+2025-01-13 15:45:04 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 15:45:04 [DEBUG] - Verifying slide annotations...
+2025-01-13 15:45:04 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 15:45:04 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 15:45:04 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 15:45:04 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 15:45:04 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 15:45:04 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 15:45:05 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:45:05 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 15:45:05 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 15:45:05 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 15:45:05 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 15:45:05 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 15:45:05 [DEBUG] - Rendering tile images with pool.
+2025-01-13 15:45:05 [DEBUG] - Report render complete.
+2025-01-13 15:45:05 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:03:18 [INFO] - Setting up project at ./project/data_5
+2025-01-13 16:03:18 [INFO] - Creating project at ./project/data_5...
+2025-01-13 16:03:18 [INFO] - Saved dataset source MyProject to ./project/data_5/datasets.json
+2025-01-13 16:03:18 [INFO] - Wrote annotations file to [green]./project/data_5/annotations.csv
+2025-01-13 16:03:59 [INFO] - Setting up project at ./project/data_6
+2025-01-13 16:03:59 [INFO] - Creating project at ./project/data_6...
+2025-01-13 16:03:59 [INFO] - Saved dataset source MyProject to ./project/data_6/datasets.json
+2025-01-13 16:03:59 [INFO] - Wrote annotations file to [green]./project/data_6/annotations.csv
+2025-01-13 16:03:59 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 16:03:59 [INFO] - Attempting to associate patients with slides...
+2025-01-13 16:03:59 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 16:03:59 [DEBUG] - Slides found: 2
+2025-01-13 16:03:59 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 16:03:59 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:03:59 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-13 16:03:59 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 16:03:59 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:03:59 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-13 16:03:59 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 16:03:59 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:03:59 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:03:59 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:03:59 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:03:59 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:03:59 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-13 16:03:59 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:03:59 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:03:59 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:03:59 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:03:59 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:03:59 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:03:59 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:03:59 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:03:59 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:03:59 [DEBUG] - Report render complete.
+2025-01-13 16:03:59 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:04:00 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:04:00 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:04:00 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:04:00 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:04:00 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:04:00 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:04:00 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:04:00 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:04:00 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:04:00 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:04:00 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:04:00 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:04:00 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:04:00 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:04:00 [DEBUG] - Report render complete.
+2025-01-13 16:04:00 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:06:26 [INFO] - Setting up project at ./project/data_7
+2025-01-13 16:06:26 [INFO] - Creating project at ./project/data_7...
+2025-01-13 16:06:26 [INFO] - Saved dataset source MyProject to ./project/data_7/datasets.json
+2025-01-13 16:06:26 [INFO] - Wrote annotations file to [green]./project/data_7/annotations.csv
+2025-01-13 16:07:07 [INFO] - Setting up project at ./project/data_8
+2025-01-13 16:07:07 [INFO] - Creating project at ./project/data_8...
+2025-01-13 16:07:54 [INFO] - Setting up project at ./project/data_9
+2025-01-13 16:07:54 [INFO] - Creating project at ./project/data_9...
+2025-01-13 16:07:54 [INFO] - Saved dataset source MyProject to ./project/data_9/datasets.json
+2025-01-13 16:07:54 [INFO] - Wrote annotations file to [green]./project/data_9/annotations.csv
+2025-01-13 16:07:55 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 16:07:55 [INFO] - Attempting to associate patients with slides...
+2025-01-13 16:07:55 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 16:07:55 [DEBUG] - Slides found: 2
+2025-01-13 16:07:55 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 16:07:55 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:07:55 [DEBUG] - TFRecords path not found: ./project/data_9/tfrecords/299px_302um
+2025-01-13 16:07:55 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-13 16:07:55 [DEBUG] - Failed to update manifest ./project/data_9/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:07:55 [DEBUG] - TFRecords path not found: ./project/data_9/tfrecords/299px_302um
+2025-01-13 16:07:55 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-13 16:07:55 [DEBUG] - Failed to update manifest ./project/data_9/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:07:55 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:07:55 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:07:55 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:07:55 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:07:55 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-13 16:07:55 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:07:55 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:07:55 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:07:55 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:07:55 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:07:55 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:07:55 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:07:55 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:07:55 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:07:55 [DEBUG] - Report render complete.
+2025-01-13 16:07:55 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:07:55 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:07:55 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:07:55 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:07:55 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:07:55 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:07:55 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:07:56 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:07:56 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:07:56 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:07:56 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:07:56 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:07:56 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:07:56 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:07:56 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:07:56 [DEBUG] - Report render complete.
+2025-01-13 16:07:56 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:10:41 [INFO] - Setting up project at ./project/data
+2025-01-13 16:10:41 [INFO] - Creating project at ./project/data...
+2025-01-13 16:10:41 [INFO] - Saved dataset source MyProject to ./project/data/datasets.json
+2025-01-13 16:10:41 [INFO] - Wrote annotations file to [green]./project/data/annotations.csv
+2025-01-13 16:10:41 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 16:10:41 [INFO] - Attempting to associate patients with slides...
+2025-01-13 16:10:41 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 16:10:41 [DEBUG] - Slides found: 2
+2025-01-13 16:10:41 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 16:10:41 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:10:41 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-13 16:10:41 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-13 16:10:41 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:10:41 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-13 16:10:41 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-13 16:10:41 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:10:41 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:10:41 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:10:41 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:10:41 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:10:41 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-13 16:10:41 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:10:41 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:10:41 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:10:41 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:10:41 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:10:41 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:10:41 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:10:41 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:10:41 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:10:41 [DEBUG] - Report render complete.
+2025-01-13 16:10:41 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:10:42 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:10:42 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:10:42 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:10:42 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:10:42 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:10:42 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:10:42 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:10:42 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:10:42 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:10:42 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:10:42 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:10:42 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:10:42 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:10:42 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:10:42 [DEBUG] - Report render complete.
+2025-01-13 16:10:42 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:12:08 [INFO] - Setting up project at ./project/data_1
+2025-01-13 16:12:08 [INFO] - Creating project at ./project/data_1...
+2025-01-13 16:12:08 [INFO] - Saved dataset source MyProject to ./project/data_1/datasets.json
+2025-01-13 16:12:08 [INFO] - Wrote annotations file to [green]./project/data_1/annotations.csv
+2025-01-13 16:12:08 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 16:12:08 [INFO] - Attempting to associate patients with slides...
+2025-01-13 16:12:08 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 16:12:08 [DEBUG] - Slides found: 2
+2025-01-13 16:12:08 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 16:12:08 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:12:08 [DEBUG] - TFRecords path not found: ./project/data_1/tfrecords/299px_302um
+2025-01-13 16:12:08 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-13 16:12:08 [DEBUG] - Failed to update manifest ./project/data_1/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:12:08 [DEBUG] - TFRecords path not found: ./project/data_1/tfrecords/299px_302um
+2025-01-13 16:12:08 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-13 16:12:08 [DEBUG] - Failed to update manifest ./project/data_1/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:12:08 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:12:08 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:12:08 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:12:08 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:12:08 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-13 16:12:08 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:12:08 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:12:08 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:12:08 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:12:08 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:12:08 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:12:08 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:12:08 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:12:08 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:12:08 [DEBUG] - Report render complete.
+2025-01-13 16:12:08 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:12:09 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:12:09 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:12:09 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:12:09 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:12:09 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:12:09 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:12:09 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:12:09 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:12:09 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:12:09 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:12:09 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:12:09 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:12:09 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:12:09 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:12:09 [DEBUG] - Report render complete.
+2025-01-13 16:12:09 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:14:13 [INFO] - Setting up project at ./project/data_2
+2025-01-13 16:14:13 [INFO] - Creating project at ./project/data_2...
+2025-01-13 16:14:13 [INFO] - Saved dataset source MyProject to ./project/data_2/datasets.json
+2025-01-13 16:14:13 [INFO] - Wrote annotations file to [green]./project/data_2/annotations.csv
+2025-01-13 16:14:13 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 16:14:13 [INFO] - Attempting to associate patients with slides...
+2025-01-13 16:14:13 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 16:14:13 [DEBUG] - Slides found: 2
+2025-01-13 16:14:13 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 16:14:13 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:14:13 [DEBUG] - TFRecords path not found: ./project/data_2/tfrecords/299px_302um
+2025-01-13 16:14:13 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-13 16:14:13 [DEBUG] - Failed to update manifest ./project/data_2/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:14:13 [DEBUG] - TFRecords path not found: ./project/data_2/tfrecords/299px_302um
+2025-01-13 16:14:13 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-13 16:14:13 [DEBUG] - Failed to update manifest ./project/data_2/tfrecords/299px_302um; no TFRecords
+2025-01-13 16:14:13 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:14:13 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:14:13 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:14:13 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:14:13 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-13 16:14:13 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:14:13 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:14:13 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:14:13 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:14:13 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:14:13 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:14:13 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:14:13 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:14:13 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:14:13 [DEBUG] - Report render complete.
+2025-01-13 16:14:13 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 16:14:14 [DEBUG] - Verifying slide annotations...
+2025-01-13 16:14:14 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 16:14:14 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 16:14:14 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 16:14:14 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 16:14:14 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 16:14:14 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 16:14:14 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:14:14 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 16:14:14 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 16:14:14 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 16:14:14 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 16:14:14 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 16:14:14 [DEBUG] - Rendering tile images with pool.
+2025-01-13 16:14:14 [DEBUG] - Report render complete.
+2025-01-13 16:14:14 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 17:24:25 [INFO] - Setting up project at ./project/data_3
+2025-01-13 17:24:25 [INFO] - Creating project at ./project/data_3...
+2025-01-13 17:24:25 [INFO] - Saved dataset source MyProject to ./project/data_3/datasets.json
+2025-01-13 17:24:25 [INFO] - Wrote annotations file to [green]./project/data_3/annotations.csv
+2025-01-13 17:24:25 [INFO] - Column 'slide' missing in annotations.
+2025-01-13 17:24:25 [INFO] - Attempting to associate patients with slides...
+2025-01-13 17:24:25 [DEBUG] - Number of patients in annotations: 2
+2025-01-13 17:24:25 [DEBUG] - Slides found: 2
+2025-01-13 17:24:25 [INFO] - Done; associated slides with 2 annotations.
+2025-01-13 17:24:25 [DEBUG] - Verifying slide annotations...
+2025-01-13 17:24:25 [DEBUG] - TFRecords path not found: ./project/data_3/tfrecords/299px_302um
+2025-01-13 17:24:25 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-13 17:24:25 [DEBUG] - Failed to update manifest ./project/data_3/tfrecords/299px_302um; no TFRecords
+2025-01-13 17:24:25 [DEBUG] - TFRecords path not found: ./project/data_3/tfrecords/299px_302um
+2025-01-13 17:24:25 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-13 17:24:25 [DEBUG] - Failed to update manifest ./project/data_3/tfrecords/299px_302um; no TFRecords
+2025-01-13 17:24:25 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 17:24:25 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 17:24:25 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 17:24:25 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 17:24:25 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-13 17:24:25 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 17:24:26 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 17:24:26 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 17:24:26 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 17:24:26 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 17:24:26 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 17:24:26 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 17:24:26 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 17:24:26 [DEBUG] - Rendering tile images with pool.
+2025-01-13 17:24:26 [DEBUG] - Report render complete.
+2025-01-13 17:24:26 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-13 17:24:26 [DEBUG] - Verifying slide annotations...
+2025-01-13 17:24:26 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-13 17:24:26 [INFO] - Filtering tiles by grayspace fraction
+2025-01-13 17:24:26 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-13 17:24:26 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-13 17:24:26 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-13 17:24:26 [INFO] - Using 4 processes (pool=spawn)
+2025-01-13 17:24:27 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 17:24:27 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-13 17:24:27 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-13 17:24:27 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-13 17:24:27 [INFO] - Generating PDF (this may take some time)...
+2025-01-13 17:24:27 [DEBUG] - Rendering thumbnails with pool.
+2025-01-13 17:24:27 [DEBUG] - Rendering tile images with pool.
+2025-01-13 17:24:27 [DEBUG] - Report render complete.
+2025-01-13 17:24:27 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:07:17 [INFO] - Setting up project at ./project/data_4
+2025-01-15 15:07:17 [INFO] - Creating project at ./project/data_4...
+2025-01-15 15:07:17 [INFO] - Saved dataset source MyProject to ./project/data_4/datasets.json
+2025-01-15 15:07:17 [INFO] - Wrote annotations file to [green]./project/data_4/annotations.csv
+2025-01-15 15:07:17 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:07:17 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:07:17 [DEBUG] - Number of patients in annotations: 3
+2025-01-15 15:07:17 [DEBUG] - Slides found: 3
+2025-01-15 15:07:17 [INFO] - Done; associated slides with 3 annotations.
+2025-01-15 15:07:17 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:07:17 [DEBUG] - TFRecords path not found: ./project/data_4/tfrecords/299px_302um
+2025-01-15 15:07:17 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:07:17 [DEBUG] - Failed to update manifest ./project/data_4/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:07:17 [DEBUG] - TFRecords path not found: ./project/data_4/tfrecords/299px_302um
+2025-01-15 15:07:17 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:07:17 [DEBUG] - Failed to update manifest ./project/data_4/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:07:17 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:07:17 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:07:17 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:07:17 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:07:17 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:07:18 [INFO] - Extracting tiles from 3 slides (tile_px=299, tile_um=302)
+2025-01-15 15:07:18 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:07:19 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:19 [ERROR] - Error processing slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: name 'vips' is not defined. Skipping
+2025-01-15 15:07:19 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:19 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-15 15:07:19 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:19 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-15 15:07:19 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:07:19 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:07:19 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:07:19 [DEBUG] - Report render complete.
+2025-01-15 15:07:19 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:07:20 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:07:20 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:07:20 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:07:20 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:07:20 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:07:20 [INFO] - Extracting tiles from 3 slides (tile_px=299, tile_um=302)
+2025-01-15 15:07:20 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:07:20 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:20 [ERROR] - Error processing slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: name 'vips' is not defined. Skipping
+2025-01-15 15:07:21 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:21 [ERROR] - Error processing slide ./tiff_images/original_6-ki67.tiff: name 'vips' is not defined. Skipping
+2025-01-15 15:07:21 [ERROR] - Unable to load vips; slide processing will be unavailable. Error raised: cannot load library 'libvips.so.42': libvips.so.42: cannot open shared object file: No such file or directory.  Additionally, ctypes.util.find_library() did not manage to locate a library called 'libvips.so.42'
+2025-01-15 15:07:21 [ERROR] - Error processing slide ./tiff_images/original_37-HE.tiff: name 'vips' is not defined. Skipping
+2025-01-15 15:07:21 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:07:21 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:07:21 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:07:21 [DEBUG] - Report render complete.
+2025-01-15 15:07:21 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:10:22 [INFO] - Setting up project at ./project/data_5
+2025-01-15 15:10:22 [INFO] - Creating project at ./project/data_5...
+2025-01-15 15:10:22 [INFO] - Saved dataset source MyProject to ./project/data_5/datasets.json
+2025-01-15 15:10:22 [INFO] - Wrote annotations file to [green]./project/data_5/annotations.csv
+2025-01-15 15:10:22 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:10:22 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:10:22 [DEBUG] - Number of patients in annotations: 3
+2025-01-15 15:10:22 [DEBUG] - Slides found: 3
+2025-01-15 15:10:22 [INFO] - Done; associated slides with 3 annotations.
+2025-01-15 15:10:22 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:10:22 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-15 15:10:22 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:10:22 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:10:22 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-15 15:10:22 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:10:22 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:10:22 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:10:22 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:10:22 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:10:22 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:10:22 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:10:22 [INFO] - Extracting tiles from 3 slides (tile_px=299, tile_um=302)
+2025-01-15 15:10:22 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:10:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:24 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:10:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:24 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:10:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:24 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:10:24 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:10:24 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:10:24 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:10:24 [DEBUG] - Report render complete.
+2025-01-15 15:10:24 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:10:24 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:10:24 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:10:24 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:10:24 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:10:24 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:10:24 [INFO] - Extracting tiles from 3 slides (tile_px=299, tile_um=302)
+2025-01-15 15:10:25 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:10:25 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:25 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:10:25 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:25 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:10:25 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:10:25 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:10:25 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:10:25 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:10:25 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:10:25 [DEBUG] - Report render complete.
+2025-01-15 15:10:25 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:14:49 [INFO] - Setting up project at ./project/data_6
+2025-01-15 15:14:49 [INFO] - Creating project at ./project/data_6...
+2025-01-15 15:14:49 [INFO] - Saved dataset source MyProject to ./project/data_6/datasets.json
+2025-01-15 15:14:49 [INFO] - Wrote annotations file to [green]./project/data_6/annotations.csv
+2025-01-15 15:14:49 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:14:49 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:14:49 [DEBUG] - Number of patients in annotations: 4
+2025-01-15 15:14:49 [DEBUG] - Slides found: 4
+2025-01-15 15:14:49 [INFO] - Done; associated slides with 4 annotations.
+2025-01-15 15:14:49 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:14:49 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-15 15:14:49 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:14:49 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:14:49 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-15 15:14:49 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:14:49 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:14:49 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:14:49 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:14:49 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:14:49 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:14:49 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:14:50 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:14:50 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:14:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:50 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:14:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:50 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:14:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:50 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:14:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:50 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:14:50 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:14:50 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:14:50 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:14:50 [DEBUG] - Report render complete.
+2025-01-15 15:14:50 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:14:51 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:14:51 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:14:51 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:14:51 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:14:51 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:14:51 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:14:51 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:14:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:51 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:14:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:51 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:14:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:51 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:14:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:14:51 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:14:51 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:14:51 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:14:51 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:14:51 [DEBUG] - Report render complete.
+2025-01-15 15:14:51 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:21:38 [INFO] - Setting up project at ./project/data_7
+2025-01-15 15:21:38 [INFO] - Creating project at ./project/data_7...
+2025-01-15 15:21:38 [INFO] - Saved dataset source MyProject to ./project/data_7/datasets.json
+2025-01-15 15:21:38 [INFO] - Wrote annotations file to [green]./project/data_7/annotations.csv
+2025-01-15 15:21:38 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:21:38 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:21:38 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:21:38 [DEBUG] - Slides found: 2
+2025-01-15 15:21:38 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:21:38 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:21:38 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-15 15:21:38 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:21:38 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:21:38 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-15 15:21:38 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:21:38 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:21:38 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:21:38 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:21:38 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:21:38 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:21:38 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:21:38 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:21:38 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:21:38 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:21:38 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:21:38 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:21:38 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:21:38 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:21:38 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:21:38 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:21:38 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:31:23 [INFO] - Setting up project at ./project/data_8
+2025-01-15 15:31:23 [INFO] - Creating project at ./project/data_8...
+2025-01-15 15:31:23 [INFO] - Saved dataset source MyProject to ./project/data_8/datasets.json
+2025-01-15 15:31:23 [INFO] - Wrote annotations file to [green]./project/data_8/annotations.csv
+2025-01-15 15:31:23 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:31:23 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:31:23 [DEBUG] - Number of patients in annotations: 4
+2025-01-15 15:31:23 [DEBUG] - Slides found: 4
+2025-01-15 15:31:23 [INFO] - Done; associated slides with 4 annotations.
+2025-01-15 15:31:23 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:31:23 [DEBUG] - TFRecords path not found: ./project/data_8/tfrecords/299px_302um
+2025-01-15 15:31:23 [DEBUG] - No manifest at ./project/data_8/tfrecords/299px_302um; creating now
+2025-01-15 15:31:23 [DEBUG] - Failed to update manifest ./project/data_8/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:31:23 [DEBUG] - TFRecords path not found: ./project/data_8/tfrecords/299px_302um
+2025-01-15 15:31:23 [DEBUG] - No manifest at ./project/data_8/tfrecords/299px_302um; creating now
+2025-01-15 15:31:23 [DEBUG] - Failed to update manifest ./project/data_8/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:31:23 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:31:23 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:31:23 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:31:23 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:31:23 [DEBUG] - No manifest at ./project/data_8/tfrecords/299px_302um; creating now
+2025-01-15 15:31:23 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:31:23 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:31:23 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:23 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:31:23 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:23 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:31:23 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:23 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:31:23 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:23 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:31:23 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:31:23 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:31:23 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:31:23 [DEBUG] - Report render complete.
+2025-01-15 15:31:23 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:31:24 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:31:24 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:31:24 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:31:24 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:31:24 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:31:24 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:31:24 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:31:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:24 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:31:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:24 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:31:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:24 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:31:24 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:31:24 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:31:24 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:31:24 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:31:24 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:31:24 [DEBUG] - Report render complete.
+2025-01-15 15:31:24 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:33:49 [INFO] - Setting up project at ./project/data_9
+2025-01-15 15:33:49 [INFO] - Creating project at ./project/data_9...
+2025-01-15 15:33:49 [INFO] - Saved dataset source MyProject to ./project/data_9/datasets.json
+2025-01-15 15:33:49 [INFO] - Wrote annotations file to [green]./project/data_9/annotations.csv
+2025-01-15 15:33:49 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:33:49 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:33:49 [DEBUG] - Number of patients in annotations: 4
+2025-01-15 15:33:49 [DEBUG] - Slides found: 4
+2025-01-15 15:33:49 [INFO] - Done; associated slides with 4 annotations.
+2025-01-15 15:33:49 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:33:49 [DEBUG] - TFRecords path not found: ./project/data_9/tfrecords/299px_302um
+2025-01-15 15:33:49 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-15 15:33:49 [DEBUG] - Failed to update manifest ./project/data_9/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:33:49 [DEBUG] - TFRecords path not found: ./project/data_9/tfrecords/299px_302um
+2025-01-15 15:33:49 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-15 15:33:49 [DEBUG] - Failed to update manifest ./project/data_9/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:33:49 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:33:49 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:33:49 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:33:49 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:33:49 [DEBUG] - No manifest at ./project/data_9/tfrecords/299px_302um; creating now
+2025-01-15 15:33:49 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:33:49 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:33:49 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:49 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:33:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:50 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:33:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:50 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:33:50 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:50 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:33:50 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:33:50 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:33:50 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:33:50 [DEBUG] - Report render complete.
+2025-01-15 15:33:50 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:33:50 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:33:50 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:33:50 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:33:50 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:33:50 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:33:50 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:33:51 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:33:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:51 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:33:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:51 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:33:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:51 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:33:51 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:33:51 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:33:51 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:33:51 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:33:51 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:33:51 [DEBUG] - Report render complete.
+2025-01-15 15:33:51 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:35:47 [INFO] - Setting up project at ./project/data
+2025-01-15 15:35:47 [INFO] - Creating project at ./project/data...
+2025-01-15 15:35:47 [INFO] - Saved dataset source MyProject to ./project/data/datasets.json
+2025-01-15 15:35:47 [INFO] - Wrote annotations file to [green]./project/data/annotations.csv
+2025-01-15 15:35:47 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:35:47 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:35:47 [DEBUG] - Number of patients in annotations: 4
+2025-01-15 15:35:47 [DEBUG] - Slides found: 4
+2025-01-15 15:35:47 [INFO] - Done; associated slides with 4 annotations.
+2025-01-15 15:35:47 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:35:47 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-15 15:35:47 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-15 15:35:47 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:35:47 [DEBUG] - TFRecords path not found: ./project/data/tfrecords/299px_302um
+2025-01-15 15:35:47 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-15 15:35:47 [DEBUG] - Failed to update manifest ./project/data/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:35:47 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:35:47 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:35:47 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:35:47 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:35:47 [DEBUG] - No manifest at ./project/data/tfrecords/299px_302um; creating now
+2025-01-15 15:35:47 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:35:47 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:35:47 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:47 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:35:47 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:47 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:35:47 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:47 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:35:47 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:47 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:35:47 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:35:47 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:35:47 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:35:47 [DEBUG] - Report render complete.
+2025-01-15 15:35:47 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:35:48 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:35:48 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:35:48 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:35:48 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:35:48 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:35:48 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:35:48 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:35:48 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:48 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:35:48 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:48 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:35:48 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:48 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:35:48 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:35:48 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:35:48 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:35:48 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:35:48 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:35:48 [DEBUG] - Report render complete.
+2025-01-15 15:35:48 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:43:12 [INFO] - Setting up project at ./project/data_1
+2025-01-15 15:43:12 [INFO] - Creating project at ./project/data_1...
+2025-01-15 15:43:12 [INFO] - Saved dataset source MyProject to ./project/data_1/datasets.json
+2025-01-15 15:43:12 [INFO] - Wrote annotations file to [green]./project/data_1/annotations.csv
+2025-01-15 15:43:12 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:43:12 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:43:12 [DEBUG] - Number of patients in annotations: 4
+2025-01-15 15:43:12 [DEBUG] - Slides found: 4
+2025-01-15 15:43:12 [INFO] - Done; associated slides with 4 annotations.
+2025-01-15 15:43:12 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:43:12 [DEBUG] - TFRecords path not found: ./project/data_1/tfrecords/299px_302um
+2025-01-15 15:43:12 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-15 15:43:12 [DEBUG] - Failed to update manifest ./project/data_1/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:43:12 [DEBUG] - TFRecords path not found: ./project/data_1/tfrecords/299px_302um
+2025-01-15 15:43:12 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-15 15:43:12 [DEBUG] - Failed to update manifest ./project/data_1/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:43:12 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:43:12 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:43:12 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:43:12 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:43:12 [DEBUG] - No manifest at ./project/data_1/tfrecords/299px_302um; creating now
+2025-01-15 15:43:12 [INFO] - Extracting tiles from 4 slides (tile_px=299, tile_um=302)
+2025-01-15 15:43:12 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:43:12 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:43:12 [ERROR] - Error loading slide ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif: Could not detect microns-per-pixel for slide: ./tiff_images/ITH (1, x=57919, y=24428, w=8431, h=7440).tif. Skipping
+2025-01-15 15:43:12 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:43:12 [ERROR] - Error loading slide ./tiff_images/original_6-ki67.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_6-ki67.tiff. Skipping
+2025-01-15 15:43:12 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:43:12 [ERROR] - Error loading slide ./tiff_images/9_HE_val.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/9_HE_val.tiff. Skipping
+2025-01-15 15:43:12 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:43:12 [ERROR] - Error loading slide ./tiff_images/original_37-HE.tiff: Could not detect microns-per-pixel for slide: ./tiff_images/original_37-HE.tiff. Skipping
+2025-01-15 15:43:12 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:43:12 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:43:12 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:43:12 [DEBUG] - Report render complete.
+2025-01-15 15:43:12 [DEBUG] - Rendering PDF pages with thumbnails.
+2025-01-15 15:43:28 [INFO] - Setting up project at ./project/data_2
+2025-01-15 15:43:28 [INFO] - Creating project at ./project/data_2...
+2025-01-15 15:43:28 [INFO] - Saved dataset source MyProject to ./project/data_2/datasets.json
+2025-01-15 15:43:28 [INFO] - Wrote annotations file to [green]./project/data_2/annotations.csv
+2025-01-15 15:43:28 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:43:28 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:43:28 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:43:28 [DEBUG] - Slides found: 2
+2025-01-15 15:43:28 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:43:28 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:43:28 [DEBUG] - TFRecords path not found: ./project/data_2/tfrecords/299px_302um
+2025-01-15 15:43:28 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-15 15:43:28 [DEBUG] - Failed to update manifest ./project/data_2/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:43:28 [DEBUG] - TFRecords path not found: ./project/data_2/tfrecords/299px_302um
+2025-01-15 15:43:28 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-15 15:43:28 [DEBUG] - Failed to update manifest ./project/data_2/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:43:28 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:43:28 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:43:28 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:43:28 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:43:28 [DEBUG] - No manifest at ./project/data_2/tfrecords/299px_302um; creating now
+2025-01-15 15:43:28 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:43:28 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:43:28 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:43:28 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:43:28 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:43:28 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:43:28 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:43:28 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:44:03 [INFO] - Setting up project at ./project/data_3
+2025-01-15 15:44:03 [INFO] - Creating project at ./project/data_3...
+2025-01-15 15:44:03 [INFO] - Saved dataset source MyProject to ./project/data_3/datasets.json
+2025-01-15 15:44:03 [INFO] - Wrote annotations file to [green]./project/data_3/annotations.csv
+2025-01-15 15:44:03 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:44:03 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:44:03 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:44:03 [DEBUG] - Slides found: 2
+2025-01-15 15:44:03 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:44:03 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:44:03 [DEBUG] - TFRecords path not found: ./project/data_3/tfrecords/299px_302um
+2025-01-15 15:44:03 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-15 15:44:03 [DEBUG] - Failed to update manifest ./project/data_3/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:44:03 [DEBUG] - TFRecords path not found: ./project/data_3/tfrecords/299px_302um
+2025-01-15 15:44:03 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-15 15:44:03 [DEBUG] - Failed to update manifest ./project/data_3/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:44:03 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:44:03 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:44:03 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:44:03 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:44:03 [DEBUG] - No manifest at ./project/data_3/tfrecords/299px_302um; creating now
+2025-01-15 15:44:03 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:44:03 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:44:03 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:44:03 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:44:03 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:44:03 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:44:03 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:44:03 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:45:04 [INFO] - Setting up project at ./project/data_4
+2025-01-15 15:45:04 [INFO] - Creating project at ./project/data_4...
+2025-01-15 15:45:04 [INFO] - Saved dataset source MyProject to ./project/data_4/datasets.json
+2025-01-15 15:45:04 [INFO] - Wrote annotations file to [green]./project/data_4/annotations.csv
+2025-01-15 15:45:04 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:45:04 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:45:04 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:45:04 [DEBUG] - Slides found: 2
+2025-01-15 15:45:04 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:45:04 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:45:04 [DEBUG] - TFRecords path not found: ./project/data_4/tfrecords/299px_302um
+2025-01-15 15:45:04 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:45:04 [DEBUG] - Failed to update manifest ./project/data_4/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:45:04 [DEBUG] - TFRecords path not found: ./project/data_4/tfrecords/299px_302um
+2025-01-15 15:45:04 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:45:04 [DEBUG] - Failed to update manifest ./project/data_4/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:45:04 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:45:04 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:45:04 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:45:04 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:45:04 [DEBUG] - No manifest at ./project/data_4/tfrecords/299px_302um; creating now
+2025-01-15 15:45:05 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:45:05 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:45:05 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:45:05 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:45:05 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:45:05 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:45:05 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:45:05 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:47:10 [INFO] - Setting up project at ./project/data_5
+2025-01-15 15:47:10 [INFO] - Creating project at ./project/data_5...
+2025-01-15 15:47:10 [INFO] - Saved dataset source MyProject to ./project/data_5/datasets.json
+2025-01-15 15:47:10 [INFO] - Wrote annotations file to [green]./project/data_5/annotations.csv
+2025-01-15 15:47:10 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:47:10 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:47:10 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:47:10 [DEBUG] - Slides found: 2
+2025-01-15 15:47:10 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:47:10 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:47:10 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-15 15:47:10 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:47:10 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:47:10 [DEBUG] - TFRecords path not found: ./project/data_5/tfrecords/299px_302um
+2025-01-15 15:47:10 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:47:10 [DEBUG] - Failed to update manifest ./project/data_5/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:47:10 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:47:10 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:47:10 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:47:10 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:47:10 [DEBUG] - No manifest at ./project/data_5/tfrecords/299px_302um; creating now
+2025-01-15 15:47:10 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:47:10 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:47:10 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:47:10 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:47:10 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:47:10 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:47:10 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:47:10 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:49:47 [INFO] - Setting up project at ./project/data_6
+2025-01-15 15:49:47 [INFO] - Creating project at ./project/data_6...
+2025-01-15 15:49:47 [INFO] - Saved dataset source MyProject to ./project/data_6/datasets.json
+2025-01-15 15:49:47 [INFO] - Wrote annotations file to [green]./project/data_6/annotations.csv
+2025-01-15 15:49:47 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:49:47 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:49:47 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:49:47 [DEBUG] - Slides found: 2
+2025-01-15 15:49:47 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:49:47 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:49:47 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-15 15:49:47 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:49:47 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:49:47 [DEBUG] - TFRecords path not found: ./project/data_6/tfrecords/299px_302um
+2025-01-15 15:49:47 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:49:47 [DEBUG] - Failed to update manifest ./project/data_6/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:49:47 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:49:47 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:49:47 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:49:47 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:49:47 [DEBUG] - No manifest at ./project/data_6/tfrecords/299px_302um; creating now
+2025-01-15 15:49:47 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:49:48 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:49:48 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:49:48 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:49:48 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:49:48 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:49:48 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:49:48 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:49:48 [DEBUG] - original_37-HE: Extracting 302um tiles (resizing 302px -> 299px); stride: 302px
+2025-01-15 15:49:48 [DEBUG] - Building generator with a shared pool
+2025-01-15 15:49:48 [DEBUG] - Using imap chunksize=52
+2025-01-15 15:50:06 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:06 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:06 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:06 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:06 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:06 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:07 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:07 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:10 [INFO] - Setting up project at ./project/data_7
+2025-01-15 15:50:10 [INFO] - Creating project at ./project/data_7...
+2025-01-15 15:50:10 [INFO] - Saved dataset source MyProject to ./project/data_7/datasets.json
+2025-01-15 15:50:10 [INFO] - Wrote annotations file to [green]./project/data_7/annotations.csv
+2025-01-15 15:50:10 [INFO] - Column 'slide' missing in annotations.
+2025-01-15 15:50:10 [INFO] - Attempting to associate patients with slides...
+2025-01-15 15:50:10 [DEBUG] - Number of patients in annotations: 2
+2025-01-15 15:50:10 [DEBUG] - Slides found: 2
+2025-01-15 15:50:10 [INFO] - Done; associated slides with 2 annotations.
+2025-01-15 15:50:10 [DEBUG] - Verifying slide annotations...
+2025-01-15 15:50:10 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-15 15:50:10 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:50:10 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:50:10 [DEBUG] - TFRecords path not found: ./project/data_7/tfrecords/299px_302um
+2025-01-15 15:50:10 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:50:10 [DEBUG] - Failed to update manifest ./project/data_7/tfrecords/299px_302um; no TFRecords
+2025-01-15 15:50:10 [INFO] - Slide reading backend: [cyan]libvips[/]
+2025-01-15 15:50:10 [INFO] - Filtering tiles by grayspace fraction
+2025-01-15 15:50:10 [DEBUG] - Grayspace defined as HSV avg < 0.05 (exclude if >=60% grayspace)
+2025-01-15 15:50:10 [INFO] - Working on dataset source [bold]MyProject[/]...
+2025-01-15 15:50:10 [DEBUG] - No manifest at ./project/data_7/tfrecords/299px_302um; creating now
+2025-01-15 15:50:10 [INFO] - Extracting tiles from 2 slides (tile_px=299, tile_um=302)
+2025-01-15 15:50:10 [INFO] - Using 4 processes (pool=spawn)
+2025-01-15 15:50:10 [INFO] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:50:10 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:50:10 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:50:10 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:50:10 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:50:10 [DEBUG] - Extracting tiles for original_37-HE
+2025-01-15 15:50:10 [DEBUG] - original_37-HE: Extracting 302um tiles (resizing 302px -> 299px); stride: 302px
+2025-01-15 15:50:10 [DEBUG] - Building generator with a shared pool
+2025-01-15 15:50:10 [DEBUG] - Using imap chunksize=52
+2025-01-15 15:50:28 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:28 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:28 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:28 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:29 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:29 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:29 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:29 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:30 [INFO] - Finished tile extraction for [green]original_37-HE[/] (75 tiles of 209 possible)
+2025-01-15 15:50:30 [DEBUG] - Generating slide report
+2025-01-15 15:50:45 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:45 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:45 [INFO] - No ROI for original_6-ki67, using whole slide.
+2025-01-15 15:50:45 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:50:45 [DEBUG] - Set up coordinate grid, shape=(7, 16)
+2025-01-15 15:50:45 [DEBUG] - original_6-ki67: Slide info: 1.0 um/px | 0 ROI(s) | Size: 2366 x 4877
+2025-01-15 15:50:45 [DEBUG] - original_6-ki67: Grid shape: (7, 16) | Tiles to extract: 112
+2025-01-15 15:50:45 [DEBUG] - Extracting tiles for original_6-ki67
+2025-01-15 15:50:45 [DEBUG] - original_6-ki67: Extracting 302um tiles (resizing 302px -> 299px); stride: 302px
+2025-01-15 15:50:45 [DEBUG] - Building generator with a shared pool
+2025-01-15 15:50:45 [DEBUG] - Using imap chunksize=28
+2025-01-15 15:50:45 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:45 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:45 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:45 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:45 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:45 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:45 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:45 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:46 [INFO] - Finished tile extraction for [green]original_6-ki67[/] (56 tiles of 112 possible)
+2025-01-15 15:50:46 [DEBUG] - Generating slide report
+2025-01-15 15:50:46 [INFO] - Generating PDF (this may take some time)...
+2025-01-15 15:50:46 [DEBUG] - Rendering thumbnails with pool.
+2025-01-15 15:50:46 [DEBUG] - No ROIs provided for original_6-ki67
+2025-01-15 15:50:46 [DEBUG] - No ROI for original_6-ki67, using whole slide.
+2025-01-15 15:50:46 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:50:46 [DEBUG] - Set up coordinate grid, shape=(7, 16)
+2025-01-15 15:50:46 [DEBUG] - original_6-ki67: Slide info: 1.0 um/px | 0 ROI(s) | Size: 2366 x 4877
+2025-01-15 15:50:46 [DEBUG] - original_6-ki67: Grid shape: (7, 16) | Tiles to extract: 112
+2025-01-15 15:50:46 [DEBUG] - Requesting thumbnail at level=0, width=512
+2025-01-15 15:50:46 [DEBUG] - Microns-Per-Pixel (MPP) not found, Searching EXIF
+2025-01-15 15:50:46 [DEBUG] - Could not detect microns-per-pixel; using default 1
+2025-01-15 15:50:46 [DEBUG] - No ROIs provided for original_37-HE
+2025-01-15 15:50:46 [DEBUG] - No ROI for original_37-HE, using whole slide.
+2025-01-15 15:50:46 [DEBUG] - Slide origin: (0, 0)
+2025-01-15 15:50:46 [DEBUG] - Set up coordinate grid, shape=(11, 19)
+2025-01-15 15:50:46 [DEBUG] - original_37-HE: Slide info: 1.0 um/px | 0 ROI(s) | Size: 3421 x 5846
+2025-01-15 15:50:46 [DEBUG] - original_37-HE: Grid shape: (11, 19) | Tiles to extract: 209
+2025-01-15 15:50:46 [DEBUG] - Requesting thumbnail at level=0, width=512
+2025-01-15 15:50:46 [DEBUG] - Rendering tile images with pool.
+2025-01-15 15:50:46 [DEBUG] - Report render complete.
+2025-01-15 15:50:47 [DEBUG] - Rendering PDF pages with thumbnails.
