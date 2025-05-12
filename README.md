@@ -177,4 +177,9 @@ If you use any ideas from the paper or code from this repo, please consider citi
 
 
 ## License
-The pre-trained weights of LightGlue and the행 
+The pre-trained weights of LightGlue and the
+
+
+## BMI 
+기존 병리 슬라이드에서 HE이미지와 IHC 이미지 매칭 과정을 구현. 이를 위해 각종 Segmentation 성능 비교 및 검증 진행.
+HE 이미지에 타일을 select하면 해당된 부분에 ransac & homography를 적용해 IHC 이미지에 매칭되는 부분을 찾아 LightGlue를 진행해 보다 의미있는 keypoint를 탐색하는 파이프라인 구축.
